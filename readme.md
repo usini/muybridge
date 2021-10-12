@@ -1,4 +1,4 @@
-# Conversation avec Muybridge
+# Conversations avec Muybridge
 Voici l'ensemble du code / modèles 3D réalisés pour l'installation Conversation avec Muybridge de Michel Glaize au carrée d'art de nîmes
 
 # Présentation
@@ -7,7 +7,7 @@ Voici l'ensemble du code / modèles 3D réalisés pour l'installation Conversati
 
 Vous pouvez voir la présentation de l'installation sur le site de Michel Glaize : https://www.michelglaize.com/teaser/
 
-# 📥 Télécharger
+# 📥 [Télécharger](https://github.com/usini/muybridge/archive/refs/heads/main.zip)
 
 # 📝 Composants
 * [2x Lidar Garmin V3](https://www.mouser.fr/ProductDetail/485-4058)
