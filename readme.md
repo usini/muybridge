@@ -20,7 +20,7 @@ Vous pouvez voir la présentation de l'installation sur le site de Michel Glaize
 # Programmation du contrôleur du train
 ## [Ajouter l'esp32 à l'IDE Arduino](https://iooner.io/programmer-un-esp32-avec-arduino-ide/)
 Voici un tutoriel de Iooner qui explique comment ajouter l'esp32 à l'IDE Arduino    
-(https://iooner.io/programmer-un-esp32-avec-arduino-ide/
+https://iooner.io/programmer-un-esp32-avec-arduino-ide/
 
 ## Programmer l'esp32
 ### Bibliothèques à installer
@@ -29,7 +29,7 @@ Il faut installer ces bibliothèques depuis **Croquis** --> **Inclure une biblio
 * Accelstepper
 
 ## Téléversement du programme
-Ouvrez le programme muybridge.ino dans arduino/muybridge    
+Ouvrez le programme muybridge.ino dans **code/arduino/muybridge**
 Sélectionner dans **Outils** --> **Type de Carte** --> **ESP32 Arduino** --> **Olimex ESP32-PoE**
 
 ## Configurations
